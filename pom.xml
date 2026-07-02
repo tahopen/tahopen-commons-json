@@ -18,7 +18,7 @@
     <connection>scm:git:git://github.com/tahopen/tahopen-commons-json.git</connection>
     <developerConnection>scm:git:git@github.com:tahopen/tahopen-commons-json.git</developerConnection>
     <url>https://github.com/tahopen/tahopen-commons-json</url>
-</scm>  
+  </scm>  
   
   <licenses>
     <license>
